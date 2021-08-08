@@ -1,0 +1,20 @@
+.card {
+  position: relative;
+}
+
+.editIcon {
+  color: darkcyan;
+  cursor: pointer;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.delIcon {
+  color: crimson;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
